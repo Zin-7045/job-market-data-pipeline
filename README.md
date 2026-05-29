@@ -128,3 +128,7 @@ On Windows, KNIME can be invoked from the DAG via:
 - API rate limits apply — the Himalayas scraper includes a 1-second delay between requests.
 - Currency conversion rates (EUR, GBP, PKR → USD) are hardcoded and may need updating.
 - n8n webhook endpoint: `http://localhost:5678/webhook/job-market-trigger` (create the workflow in n8n UI).
+
+## Contributors
+
+- **Muhammad Taha Naeem** ([@mtahanaeem](https://github.com/mtahanaeem))
